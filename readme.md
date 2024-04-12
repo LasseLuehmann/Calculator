@@ -1,0 +1,9 @@
+# Calculator
+>- ~~add~~
+>- ~~multiply~~
+>- ~~substract~~
+>- **divis**
+>- **modulus**
+- root
+- square
+- pi
